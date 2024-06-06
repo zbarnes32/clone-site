@@ -1,0 +1,49 @@
+.bg-orange {
+    background-color: #f88007;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.stylus-img{
+    height: 420px;
+    width: 100%;
+}
+
+.features {
+    padding: 1em;
+    background-color: #469ae0;
+}
+.features p {
+    font-size: 12px;
+}
+
+.logos {
+    font-size: 60px;
+}
+
+.bg-image {
+    background-image: url("https://deyoungmortgage.com/wp-content/uploads/2016/09/Community-Map-BG.jpg");
+    min-height: 60dvh;
+    width: 100%;
+}
+
+.footer-logos {
+    font-size: 20px
+}
+
+.footer-small {
+    font-size: 10px;
+    padding-top: 1em;
+}
+
+footer {
+    justify-content: space-around;
+}
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
